@@ -1,0 +1,19 @@
+.DS_Store
+**/.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.streamlit/secrets.toml
+~$*.xlsx
+.obsidian/
+
+# Raw and record-level scraped material is intentionally excluded.
+data/**/raw/
+data/**/test/
+data/tiktok/
+data/google-maps-review/
+scrapers/
+outputs/
+tmp/
