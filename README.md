@@ -13,7 +13,7 @@ An exploratory destination-intelligence project developed by Anna Claire Breuss-
 ## Explore the web app
 
 
-**[Open the deployed External Travel Signals Explorer](https://external-travel-signals-explorer.streamlit.app/)**
+**[Open the deployed External Travel Signals Explorer](https://external-travel-signals-explorer-app.streamlit.app/)**
 
 
 The Streamlit app translates the project findings into stakeholder-friendly destination comparisons, historical charts, guided questions and an interactive XGBoost model explorer.
